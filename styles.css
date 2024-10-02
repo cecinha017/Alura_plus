@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+color: white;
+}
+.principal {
+    background-image: url("ing/backgroung.png");
+    height: 100vh; 
+     align-items: center ;
+     text-align: center ;
+     display: grid;
+     grid: templante-columns: 50% 50%;
+     margin: 0 6em;
+}
+ .P2{
+    align-items: center ;
+    text-align: center ;
+    display: grid;
+    grid: templante-columns: 50% 50%;
+    margin: 0 6em;
+
+ }
+ .P3{
+    align-items: center ;
+    text-align: center ;
+    display: grid;
+    grid: templante-columns: 50% 50%;
+    margin: 0 6em;
+ }
+ .P4{
+    align-items: center ;
+    text-align: center ;
+    display: grid;
+    grid: templante-columns: 50% 50%;
+    margin: 6em;
+ }
+   
+  .botão1 {
+   display: block;
+   background: hsl(181, 89%, 58%);
+   color:blueviolet;
+   padding: 20px;
+   margin: 20px;
+
+  }
